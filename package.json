@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "p5.serialport": "^0.0.31"
+  }
+}
